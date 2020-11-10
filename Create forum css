@@ -1,0 +1,97 @@
+/* profile picture */ p { color: red; }
+.selector {
+  background-image: url(https://marvel-live.freetls.fastly.net/canvas/2020/11/fa0f0e58fe0e45f2a2f7daa5171ca6a0?quality=95&fake=.png);
+  background-size: 100%;
+  border-radius: 100%;
+  width: 99px;
+  height: 100px;
+}
+
+.selector {
+  color: #47525E;
+  font-family: Lato;
+  font-size: 30px;
+  line-height: 22px;
+  width: 558px;
+  text-align: center;
+}
+
+/* profile picture 2 */ p { color: red; }
+.selector {
+  background-image: url(https://marvel-live.freetls.fastly.net/canvas/2020/11/094a6663e6d24810858aa5e8baa67af1?quality=95&fake=.png);
+  background-size: 100%;
+  border-radius: 100%;
+  width: 98px;
+  height: 100px;
+}
+
+.selector {
+  color: #47525E;
+  font-family: Domine;
+  font-size: 20px;
+  line-height: 26px;
+  width: 378px;
+  text-align: left;
+}
+
+.selector {
+  color: #8190A5;
+  font-family: Lato;
+  font-size: 16.67px;
+  line-height: 12px;
+  width: 99px;
+  text-align: center;
+}
+
+.selector {
+  color: #47525E;
+  font-family: Domine;
+  font-size: 16.67px;
+  line-height: 21.67px;
+  text-align: left;
+}
+
+.selector {
+  width: 43px;
+  height: 42px;
+}
+
+
+/* profile picture 3 */ p { color: red; }
+.selector {
+  background-image: url(https://marvel-live.freetls.fastly.net/canvas/2020/11/a0263171ae214f4990b1aff0b2c51646?quality=95&fake=.png);
+  background-size: 100%;
+  border-radius: 100%;
+  width: 98px;
+  height: 100px;
+}
+
+/* profile picture 4 */ p { color: red; }
+.selector {
+  background-image: url(https://marvel-live.freetls.fastly.net/canvas/2020/11/6c788089dcfa4e489136ee3783aa3807?quality=95&fake=.png);
+  background-size: 100%;
+  border-radius: 100%;
+  width: 98px;
+  height: 100px;
+}
+
+/* profile picture 5 */ p { color: red; }
+.selector {
+  background-image: url(https://marvel-live.freetls.fastly.net/canvas/2020/11/87a2979177024bf3a932c15b25f738ab?quality=95&fake=.png);
+  background-size: 100%;
+  border-radius: 100%;
+  width: 98px;
+  height: 100px;
+}
+
+/* profile picture 6 */ p { color: red; }
+.selector {
+  background-image: url(https://marvel-live.freetls.fastly.net/canvas/2020/11/ff6ea98ef5f14c27bee24fc0cfebc738?quality=95&fake=.png);
+  background-size: 100%;
+  border-radius: 100%;
+  width: 99px;
+  height: 100px;
+}
+
+
+
