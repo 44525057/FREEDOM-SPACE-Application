@@ -1,0 +1,44 @@
+.selector {
+  background-color: #FFFFFF;
+  border: 4px solid #FFBA5C;
+  width: 510px;
+  height: 302px;
+}
+.selector {
+  color: #47525E;
+  font-family: Droid Sans;
+  font-size: 46.67px;
+  line-height: 22.67px;
+  width: 439px;
+  text-align: center;
+}
+.selector {
+  color: #47525E;
+  font-family: Domine;
+  font-size: 26.67px;
+  line-height: 34.67px;
+  width: 489px;
+  text-align: center;
+}
+
+/* location map */ p { color: red; }
+.selector {
+  background-image: url(https://marvelapp-live.storage.googleapis.com/canvas/2017/10/bc390b453e7a4736ae68e02afa26a96e);
+  background-size: 100%;
+  width: 549px;
+  height: 710px;
+}
+SS
+.selector {
+  color: #FF0004;
+  font-family: Domine;
+  font-size: 33.33px;
+  line-height: 43.33px;
+  text-align: left;
+}
+
+.selector {
+  background-color: rgba(255, 11, 11, 0.96);
+  width: 112px;
+  height: 112px;
+}
