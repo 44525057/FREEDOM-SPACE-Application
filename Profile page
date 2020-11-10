@@ -1,0 +1,46 @@
+.selector {
+  width: 563px;
+  height: 1219px;
+}
+
+.selector {
+  color: #47525E;
+  font-family: Lato;
+  font-size: 43.33px;
+  line-height: 56.33px;
+  width: 505px;
+  text-align: center;
+}
+
+.selector {
+  background-color: #FFBA5C;
+  border-radius: 33.33px;
+  width: 563px;
+  height: 129px;
+}
+
+.selector {
+  background-color: #FFFFFF;
+  width: 505px;
+  height: 71px;
+}
+
+/* This is the app widgets on the bottom, Articles */
+.selector {
+  width: 35px;
+  height: 36px;
+}
+
+/* This is the danger button */
+.selector {
+  width: 37px;
+  height: 37px;
+}
+
+/* This is the forum button */
+.selector {
+  width: 38px;
+  height: 37px;
+}
+
+
