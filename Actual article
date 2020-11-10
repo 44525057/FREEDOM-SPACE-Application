@@ -1,0 +1,27 @@
+/* profile picture */ p { color: red; }
+.selector {
+  background-image: url(https://marvel-live.freetls.fastly.net/canvas/2020/11/fa0f0e58fe0e45f2a2f7daa5171ca6a0?quality=95&fake=.png);
+  background-size: 100%;
+  border-radius: 100%;
+  width: 99px;
+  height: 100px;
+}
+
+.selector {
+  color: #47525E;
+  font-family: Lato;
+  font-size: 30px;
+  line-height: 22px;
+  width: 558px;
+  text-align: center;
+}
+
+/* article content */ p { color: red; }
+.selector {
+  color: #47525E;
+  font-family: Lato;
+  font-size: 23.33px;
+  line-height: 30.33px;
+  width: 513px;
+  text-align: left;
+}
