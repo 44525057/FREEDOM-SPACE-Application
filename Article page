@@ -1,0 +1,70 @@
+/* article page */
+.selector {
+  color: #8190A5;
+  font-family: Lato;
+  font-size: 23.33px;
+  line-height: 5.33px;
+  width: 361px;
+  text-align: center;
+}
+
+/*new article emoji */
+.selector {
+  color: #47525E;
+  font-family: Droid Sans;
+  font-size: 46.67px;
+  line-height: 22.67px;
+  width: 439px;
+  text-align: center;
+}
+
+.selector {
+  width: 66px;
+  height: 66px;
+}
+
+.police-brutality-1-rounded-png-1 {
+  width: 646px;
+  height: 646px;
+}
+
+.selector {
+  color: #47525E;
+  font-family: Lato;
+  font-size: 30px;
+  line-height: 22px;
+  width: 457px;
+  text-align: left;
+}
+
+.peaceful-protest-bordered-png {
+  width: 619px;
+  height: 619px;
+}
+
+.selector {
+  color: #47525E;
+  font-family: Lato;
+  font-size: 30px;
+  line-height: 22px;
+  width: 558px;
+  text-align: left;
+}
+
+.racist-remarks-borders-png {
+  width: 619px;
+  height: 619px;
+}
+
+.selector {
+  color: #8190A5;
+  font-family: Lato;
+  font-size: 23.33px;
+  line-height: 18px;
+  width: 561px;
+  text-align: center;
+}
+
+
+
+
