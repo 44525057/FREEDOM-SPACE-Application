@@ -1,0 +1,29 @@
+.cool-i-phone-x-wallpaper-hd-jpg {
+  width: 693px;
+  height: 1231px;
+}
+
+.selector {
+  color: #FFFFFF;
+  font-family: Norwester;
+  font-size: 73.33px;
+  line-height: 95.33px;
+  width: 481px;
+  text-align: left;
+}
+
+.selector {
+  color: #FFD185;
+  font-family: Cardo;
+  font-size: 36.67px;
+  line-height: 47.67px;
+  width: 693px;
+  text-align: center;
+}
+
+.selector {
+  background-color: rgba(255, 255, 255, 0.75);
+  border-radius: 9.67px;
+  width: 124px;
+  height: 124px;
+}
