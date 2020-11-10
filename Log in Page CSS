@@ -1,0 +1,17 @@
+.selector {
+  width: 563px;
+  height: 1218px;
+}
+.selector {
+  color: #FFFFFF;
+  font-family: Norwester;
+  font-size: 73.33px;
+  line-height: 95.33px;
+  width: 481px;
+  text-align: left;
+}
+.selector {
+  background-color: #FFBA5C;
+  width: 563px;
+  height: 109px;
+}
